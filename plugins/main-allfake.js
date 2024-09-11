@@ -64,7 +64,7 @@ global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 
 //Enlaces
 var canal = 'https://whatsapp.com/channel/0029VajkZ6blXnlwPZmbuH1u'  
-let tiktok = 'https://www.tiktok.com/@_moneywayyy?_t=8pc6PVKakNx&_r=1'
+let tiktok = 'https://www.tiktok.com/@_moneywayyy'
 let correo = 'anuarmazenett@gmail.com'
 
 global.redes = [canal, tiktok, correo].getRandom()
@@ -98,12 +98,12 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
   
 global.icono = [ 
-'https://telegra.ph/file/e4cae86be4d97aabcd77c.jpg',
-'https://telegra.ph/file/e4cae86be4d97aabcd77c.jpg',
-'https://telegra.ph/file/e4cae86be4d97aabcd77c.jpg',
-'https://telegra.ph/file/e4cae86be4d97aabcd77c.jpg',
-'https://telegra.ph/file/e4cae86be4d97aabcd77c.jpg',
-'https://telegra.ph/file/e4cae86be4d97aabcd77c.jpg',
+'https://qu.ax/CLFB.jpg',
+'https://qu.ax/PoEh.jpg',
+'https://qu.ax/ibdf.jpg',
+'https://qu.ax/ibdf.jpg',
+'https://qu.ax/ibdf.jpg',
+'https://qu.ax/ibdf.jpg',
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "12098765423@newsletter", serverMessageId: 100, newsletterName: '𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻', }, externalAdReply: { showAdAttribution: true, title: packname, body: '⭐ Bot De WhatsApp!', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
