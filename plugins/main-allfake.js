@@ -35,8 +35,8 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 global.creador = 'Wa.me/584123989549'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/584123989549'
-global.namechannel = '𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻'
-global.namechannel2 = '𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻'
+global.namechannel = '𝘼𝙣𝙩𝙧𝙖𝙭-𝘽𝙤𝙩'
+global.namechannel2 = '𝘼𝙣𝙩𝙧𝙖𝙭-𝘽𝙤𝙩'
 global.namegrupo = 'シ︎ 𝗜𝗮𝗻𝗕𝗼𝘁-𝗠𝗗 🌸 𝗠𝘂𝗹𝘁𝗶-𝗕𝗢𝗧𝗦'
 global.namecomu = '『✯ 𝗧𝗲𝗮𝗺 𝗖𝗼𝗺𝘂𝗻𝗶𝘁𝘆 𝗜𝗮𝗻 ✯』'
 global.namecomu2 = '『✯ 𝗧𝗲𝗮𝗺 𝗖𝗼𝗺𝘂𝗻𝗶𝘁𝘆 𝗜𝗮𝗻 ✯』'
@@ -94,7 +94,7 @@ global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@
 
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "4123989549-120363315593103255@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '12098765423@newsletter', newsletterName: "𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '12098765423@newsletter', newsletterName: "𝘼𝙣𝙩𝙧𝙖𝙭-𝘽𝙤𝙩", serverMessageId: -1 }
 }}, { quoted: m }
   
 global.icono = [ 
