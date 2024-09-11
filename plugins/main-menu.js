@@ -29,7 +29,7 @@ let tags = {
 const defaultMenu = {
   before: `*─ׄ─ׅ─⭒─ׄ─ׄ─⭒─ׅ─ׄ─⭒─ׄ─ׄ─⭒─ׄ─ׄ─*
 
-“ Hola *%name* soy *Sisked*  ”
+“ Hola *%name* soy *Antrax*  ”
 
 ┌───⊷ INFO - BOT
 ┊  ✰ Cliente: %name
@@ -37,7 +37,7 @@ const defaultMenu = {
 └─────────────
 %readmore
 ┌───⊷ INFO - USER
-┊  ✰ Bot: Sisked - MD 
+┊  ✰ Bot: Antrax - MD 
 ┊  ✰ Modo Público
 ┊  ✰ Baileys: Multi Device
 ┊  ✰ Tiempo Activo: %muptime
