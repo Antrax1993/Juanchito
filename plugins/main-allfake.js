@@ -34,7 +34,7 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //creador y otros
 global.creador = 'Wa.me/584123989549'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/543876577197'
+global.asistencia = 'Wa.me/584123989549'
 global.namechannel = '𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻'
 global.namechannel2 = '𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻'
 global.namegrupo = 'シ︎ 𝗜𝗮𝗻𝗕𝗼𝘁-𝗠𝗗 🌸 𝗠𝘂𝗹𝘁𝗶-𝗕𝗢𝗧𝗦'
@@ -49,10 +49,10 @@ global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de Sisked
-global.emoji = '🌟'
+//Emojis determinado de Antrax
+global.emoji = '☠️'
 global.emoji2 = '🌟'
-global.emoji3 = '⭐'
+global.emoji3 = '💀'
 global.emoji4 = '⭐'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
@@ -64,7 +64,7 @@ global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 
 //Enlaces
 var canal = 'https://whatsapp.com/channel/0029VajkZ6blXnlwPZmbuH1u'  
-let tiktok = 'https://tiktok.com/@slsked'
+let tiktok = 'https://www.tiktok.com/@_moneywayyy?_t=8pc6PVKakNx&_r=1'
 let correo = 'anuarmazenett@gmail.com'
 
 global.redes = [canal, tiktok, correo].getRandom()
