@@ -4,7 +4,7 @@ import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
 
 let tags = {
-  'main': 'INFO 👋🏻',
+  'main': 'INFO ⭐',
   'buscador': 'BUSQUEDAS ⭐',
   'fun': 'JUEGOS ⭐',
   'serbot': 'SUB BOTS ⭐',
@@ -29,7 +29,7 @@ let tags = {
 const defaultMenu = {
   before: `*─ׄ─ׅ─⭒─ׄ─ׄ─⭒─ׅ─ׄ─⭒─ׄ─ׄ─⭒─ׄ─ׄ─*
 
-“ Hola *%name* soy *Antrax*  ”
+“ Hola *%name* soy *Sisked*  ”
 
 ┌───⊷ INFO - BOT
 ┊  ✰ Cliente: %name
@@ -37,7 +37,7 @@ const defaultMenu = {
 └─────────────
 %readmore
 ┌───⊷ INFO - USER
-┊  ✰ Bot: Antrax - MD 
+┊  ✰ Bot: Sisked - MD 
 ┊  ✰ Modo Público
 ┊  ✰ Baileys: Multi Device
 ┊  ✰ Tiempo Activo: %muptime
@@ -169,7 +169,7 @@ await conn.sendMessage(m.chat, {video: {url: gifUrl}, gifPlayback: true, caption
 
 handler.help = ['menu']
 handler.tags = ['main']
-handler.command = ['m1', 'help','allmenu2', 'menú3'] 
+handler.command = ['menu', 'help','allmenu', 'menú'] 
 handler.register = true 
 export default handler
 
